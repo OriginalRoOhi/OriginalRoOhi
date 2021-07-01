@@ -1,0 +1,2 @@
+- 👋🏻 Hi, I’m @RoOhi-E
+- 👀 I’m a Frontend Developer
